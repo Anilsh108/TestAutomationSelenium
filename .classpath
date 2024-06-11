@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="target/classes" path="src/main/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry excluding="**" kind="src" output="target/classes" path="src/main/resources">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="optional" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" output="target/test-classes" path="src/test/java">
+		<attributes>
+			<attribute name="test" value="true"/>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry excluding="**" kind="src" output="target/test-classes" path="src/test/resources">
+		<attributes>
+			<attribute name="test" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="optional" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7">
+		<attributes>
+			<attribute name="module" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="target/generated-sources/annotations">
+		<attributes>
+			<attribute name="ignore_optional_problems" value="true"/>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="m2e-apt" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" output="target/test-classes" path="target/generated-test-sources/test-annotations">
+		<attributes>
+			<attribute name="ignore_optional_problems" value="true"/>
+			<attribute name="test" value="true"/>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="m2e-apt" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="D:/Automation/selenium-api-4.17.0.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/selenium-api-4.17.0-sources.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/selenium-chrome-driver-4.17.0.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/selenium-chrome-driver-4.17.0-sources.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/selenium-chromium-driver-4.17.0.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/selenium-chromium-driver-4.17.0-sources.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/selenium-devtools-v85-4.17.0.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/selenium-devtools-v85-4.17.0-sources.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/selenium-devtools-v119-4.17.0.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/selenium-devtools-v119-4.17.0-sources.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/selenium-devtools-v120-4.17.0.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/selenium-devtools-v120-4.17.0-sources.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/selenium-devtools-v121-4.17.0.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/selenium-devtools-v121-4.17.0-sources.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/selenium-edge-driver-4.17.0.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/selenium-edge-driver-4.17.0-sources.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/selenium-firefox-driver-4.17.0.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/selenium-firefox-driver-4.17.0-sources.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/selenium-http-4.17.0.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/selenium-http-4.17.0-sources.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/selenium-ie-driver-4.17.0.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/selenium-ie-driver-4.17.0-sources.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/selenium-java-4.17.0.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/selenium-java-4.17.0-sources.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/selenium-json-4.17.0.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/selenium-json-4.17.0-sources.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/selenium-manager-4.17.0.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/selenium-manager-4.17.0-sources.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/selenium-os-4.17.0.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/selenium-os-4.17.0-sources.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/selenium-remote-driver-4.17.0.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/selenium-remote-driver-4.17.0-sources.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/selenium-safari-driver-4.17.0.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/selenium-safari-driver-4.17.0-sources.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/selenium-support-4.17.0.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/selenium-support-4.17.0-sources.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/lib/auto-service-annotations-1.1.1.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/lib/byte-buddy-1.14.11.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/lib/checker-qual-3.41.0.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/lib/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/lib/error_prone_annotations-2.23.0.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/lib/failsafe-3.3.2.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/lib/failureaccess-1.0.2.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/lib/guava-33.0.0-jre.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/lib/j2objc-annotations-2.8.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/lib/jsr305-3.0.2.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/lib/listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/lib/opentelemetry-api-1.34.1.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/lib/opentelemetry-api-events-1.34.1-alpha.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/lib/opentelemetry-context-1.34.1.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/lib/opentelemetry-exporter-logging-1.34.1.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/lib/opentelemetry-extension-incubator-1.34.1-alpha.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/lib/opentelemetry-sdk-1.34.1.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/lib/opentelemetry-sdk-common-1.34.1.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/lib/opentelemetry-sdk-extension-autoconfigure-1.34.1.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/lib/opentelemetry-sdk-extension-autoconfigure-spi-1.34.1.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/lib/opentelemetry-sdk-logs-1.34.1.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/lib/opentelemetry-sdk-metrics-1.34.1.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/lib/opentelemetry-sdk-trace-1.34.1.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/lib/opentelemetry-semconv-1.23.1-alpha.jar"/>
+	<classpathentry kind="lib" path="C:/Users/anil/.m2/repository/org/seleniumhq/selenium/selenium-support/4.17.0/selenium-support-4.17.0.jar" sourcepath="C:/Users/anil/.m2/repository/org/seleniumhq/selenium/selenium-support/4.17.0/selenium-support-4.17.0-sources.jar">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="maven.groupId" value="org.seleniumhq.selenium"/>
+			<attribute name="maven.artifactId" value="selenium-support"/>
+			<attribute name="maven.version" value="4.17.0"/>
+			<attribute name="maven.scope" value="compile"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/anil/.m2/repository/org/seleniumhq/selenium/selenium-api/4.17.0/selenium-api-4.17.0.jar" sourcepath="C:/Users/anil/.m2/repository/org/seleniumhq/selenium/selenium-api/4.17.0/selenium-api-4.17.0-sources.jar">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="maven.groupId" value="org.seleniumhq.selenium"/>
+			<attribute name="maven.artifactId" value="selenium-api"/>
+			<attribute name="maven.version" value="4.17.0"/>
+			<attribute name="maven.scope" value="compile"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/anil/.m2/repository/org/seleniumhq/selenium/selenium-chrome-driver/4.17.0/selenium-chrome-driver-4.17.0.jar" sourcepath="C:/Users/anil/.m2/repository/org/seleniumhq/selenium/selenium-chrome-driver/4.17.0/selenium-chrome-driver-4.17.0-sources.jar">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="maven.groupId" value="org.seleniumhq.selenium"/>
+			<attribute name="maven.artifactId" value="selenium-chrome-driver"/>
+			<attribute name="maven.version" value="4.17.0"/>
+			<attribute name="maven.scope" value="compile"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
